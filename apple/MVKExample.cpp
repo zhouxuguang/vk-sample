@@ -7,7 +7,11 @@
 
 
 #include "MVKExample.h"
-#include "examples.h"
+//#include "examples.h"
+
+#include "tessellation/tessellation.cpp"
+#include "../base/VulkanglTFModel.cpp"
+
 
 void MVKExample::renderFrame() {
 	_vulkanExample->renderFrame();

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "160037D2-ED1A-494A-B5C1-367209AF0540"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFCFA8E1-6007-48DA-BD35-A52DE32077C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../MoltenVK/MoltenVK/MoltenVK/Vulkan/vulkan.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4301"
+            endingLineNumber = "4301"
+            landmarkName = "vkCreateMetalSurfaceEXT(instance, pCreateInfo, pAllocator, pSurface)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A8B5041-AB3C-4CFF-B05B-EF68148D003C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVKExample.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "MVKExample::MVKExample(view, scaleUI)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FB528D7-FFE9-45B3-84FA-AAB718DF77E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../MoltenVK/MoltenVKShaderConverter/MoltenVKShaderConverter/SPIRVConversion.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "mvkConvertSPIRVToMSL(spvCode, spvLength, pMSL, pResultLog, shouldLogSPIRV, shouldLogMSL)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "924AF112-7A8D-4761-B277-B1A29A2F1D4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../MoltenVK/MoltenVK/MoltenVK/Vulkan/vulkan.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "997"
+            endingLineNumber = "997"
+            landmarkName = "vkCreateShaderModule(device, pCreateInfo, pAllocator, pShaderModule)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41DA1017-FE85-4F4F-9D35-E57D984A279D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../MoltenVK/MoltenVK/MoltenVK/GPUObjects/MVKShaderModule.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "486"
+            endingLineNumber = "486"
+            landmarkName = "MVKShaderModule::MVKShaderModule(device, pCreateInfo)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05D7938F-B513-40D2-A1BC-A24B3CB153B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../MoltenVK/MoltenVKShaderConverter/MoltenVKShaderConverter/SPIRVToMSLConverter.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "275"
+            endingLineNumber = "275"
+            landmarkName = "SPIRVToMSLConverter::convert(shaderConfig, conversionResult, shouldLogSPIRV, shouldLogMSL, shouldLogGLSL)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7F8D897-E75E-4101-A212-D0B9ED7BD997"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../MoltenVK/MoltenVKShaderConverter/MoltenVKShaderConverter/SPIRVToMSLConverter.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "310"
+            endingLineNumber = "310"
+            landmarkName = "SPIRVToMSLConverter::convert(shaderConfig, conversionResult, shouldLogSPIRV, shouldLogMSL, shouldLogGLSL)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7F8D897-E75E-4101-A212-D0B9ED7BD997 - ea2a592f641706dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mvk::SPIRVToMSLConverter::convert(mvk::SPIRVToMSLConversionConfiguration&amp;, mvk::SPIRVToMSLConversionResult&amp;, bool, bool, bool)"
+                  moduleName = "libMoltenVK.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouxuguang/work/mycode/MoltenVK/MoltenVKShaderConverter/MoltenVKShaderConverter/SPIRVToMSLConverter.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "310"
+                  endingLineNumber = "310"
+                  offsetFromSymbolStart = "955">
+               </Location>
+               <Location
+                  uuid = "F7F8D897-E75E-4101-A212-D0B9ED7BD997 - ea2a592f641706dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mvk::SPIRVToMSLConverter::convert(mvk::SPIRVToMSLConversionConfiguration&amp;, mvk::SPIRVToMSLConversionResult&amp;, bool, bool, bool)"
+                  moduleName = "libMoltenVK.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouxuguang/work/mycode/MoltenVK/MoltenVKShaderConverter/MoltenVKShaderConverter/SPIRVToMSLConverter.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "310"
+                  endingLineNumber = "310"
+                  offsetFromSymbolStart = "1049">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56B5C02B-3836-449F-A294-4AAB17020BBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../MoltenVK/MoltenVKShaderConverter/MoltenVKShaderConverter/SPIRVToMSLConverter.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "SPIRVToMSLConverter::convert(shaderConfig, conversionResult, shouldLogSPIRV, shouldLogMSL, shouldLogGLSL)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -200,7 +200,7 @@ public:
 		glm::vec2 position;
 	} mouseState;
 
-	VkClearColorValue defaultClearColor = { { 0.025f, 0.025f, 0.025f, 1.0f } };
+	VkClearColorValue defaultClearColor = { { 1.0, 0.025f, 0.025f, 1.0f } };
 
 	static std::vector<const char*> args;
 
